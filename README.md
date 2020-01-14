@@ -18,7 +18,7 @@ With the Multinomial Naive Bayes model I was able to reach an **accuary of 59%**
 
 1. Collecting news articles and stock prices.
 For the modeling purpose I was collecting article headlines of ten major companies starting from January 1 2010.
-See the webscraper code [here](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Scraping_wsj_headlines.ipynb)
+See the webscraper code [here.](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Scraping_wsj_headlines.ipynb)
 The scraped articles were collected into a Mongodb database.
 The source of the stock prices was [finance.yahoo.com](finance.yahoo.com).
 
@@ -28,3 +28,4 @@ This process included the removal of not relevant articles (i.e. blog, opinion, 
 The preprocessing included the tokenization, stemming and removing of stopwords. See the code [here.](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Preprocessing%20final.ipynb)
 
 3. Model building
+
