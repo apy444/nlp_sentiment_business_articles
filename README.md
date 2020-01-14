@@ -6,4 +6,4 @@ The challenge: making prediction on a market which is considered to be effective
 
 Here is an example, where business information had an affect on stock prices:
 
-“SENTIMENT ANALYSIS.png
+![Tesla example]("Tesla_example.png)
