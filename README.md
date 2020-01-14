@@ -10,4 +10,6 @@ Here is an example, where business information had an affect on stock prices:
 
 ### The findings:
 
-With the Multinomial Naive Bayes model I was able to reach an accuary of 59%. The model is more accurate in making prediction to a negative way (aka the stock price will drop) than to a positive way.
+With the Multinomial Naive Bayes model I was able to reach an accuary of 59%. The model is more accurate in making prediction to a negative way (aka the stock price will drop) than to a positive way. The following image shows the model classification.
+
+![Tesla example](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/img/model classification.png)
