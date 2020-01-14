@@ -6,4 +6,4 @@ The challenge: making prediction on a market which is considered to be effective
 
 Here is an example, where business information had an affect on stock prices:
 
-![Tesla example]("Tesla_example.png)
+![Tesla example](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/img/Tesla_example.png)
