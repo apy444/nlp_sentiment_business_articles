@@ -1,5 +1,8 @@
 ## Sentiment analysis of business articles using Machine Learning and Natural Language Processing
 
+Project Description
+-------------------
+
 **The goal** of this project is making predictions on stock price movements based on business articles. The stress is here to use business articles which contain only considerable news about the company (i.e. introducing a new product) including expectation/realization of its qauterly report. In this project I was trying to avoid using articles which make direct prediction/deduction of the recent stock prices.
 
 The challenge: making prediction on a **market** which is considered to be **effective**, and thus the current share prices always incorporate and reflect all relevant information.
