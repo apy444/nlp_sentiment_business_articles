@@ -5,7 +5,7 @@ Project Description
 
 **The goal** of this project is making predictions on stock price movements based on business articles. The stress is here to use business articles which contain only considerable news about the company (i.e. introducing a new product) including expectation/realization of its qauterly report. In this project I was trying to avoid using articles which make direct prediction/deduction of the recent stock prices.
 
-The challenge: making prediction on a **market** which is considered to be **effective**, and thus the current share prices always incorporate and reflect all relevant information.
+The **challenge**: making prediction on a **market** which is considered to be **effective**, and thus the current share prices always incorporate and reflect all relevant information.
 
 Here is an example, where business information had an affect on stock prices:
 
@@ -59,3 +59,10 @@ The WordCloud reflects the feature importance by the size of the words.
 
 ![Negative words](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/img/neg_words.png)
 
+Files
+-----------
+- **SENTIMENT ANALYSIS.pdf**(https://github.com/apy444/nlp_sentiment_business_articles/blob/master/SENTIMENT%20ANALYSIS.pdf): presentation about the project findings
+- **Technical notebook final.ipynb**(https://github.com/apy444/nlp_sentiment_business_articles/blob/master/Technical%20notebook%20final.ipynb): training predictive models, model selection
+- **data**:
+    - **Preprocessing final.ipynb**(https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Preprocessing%20final.ipynb): contains the data cleaning, NLP processing
+    - **Scraping_wsj_headlines.ipynb**(https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Scraping_wsj_headlines.ipynb): OOP tool to retrieve articles from the web
