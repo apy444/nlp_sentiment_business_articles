@@ -61,8 +61,8 @@ The WordCloud reflects the feature importance by the size of the words.
 
 Files
 -----------
-- **SENTIMENT ANALYSIS.pdf**(https://github.com/apy444/nlp_sentiment_business_articles/blob/master/SENTIMENT%20ANALYSIS.pdf): presentation about the project findings
-- **Technical notebook final.ipynb**(https://github.com/apy444/nlp_sentiment_business_articles/blob/master/Technical%20notebook%20final.ipynb): training predictive models, model selection
+- [**SENTIMENT ANALYSIS.pdf**](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/SENTIMENT%20ANALYSIS.pdf): presentation about the project findings
+- [**Technical notebook final.ipynb**](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/Technical%20notebook%20final.ipynb): training predictive models, model selection
 - **data**:
-    - **Preprocessing final.ipynb**(https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Preprocessing%20final.ipynb): contains the data cleaning, NLP processing
-    - **Scraping_wsj_headlines.ipynb**(https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Scraping_wsj_headlines.ipynb): OOP tool to retrieve articles from the web
+    - [**Preprocessing final.ipynb**](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Preprocessing%20final.ipynb): contains the data cleaning, NLP processing
+    - [**Scraping_wsj_headlines.ipynb**](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/data/Scraping_wsj_headlines.ipynb): OOP tool to retrieve articles from the web
