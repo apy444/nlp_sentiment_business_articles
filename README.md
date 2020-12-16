@@ -60,7 +60,7 @@ The WordCloud reflects the feature importance by the size of the words.
 ![Negative words](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/img/neg_words.png)
 
 Files
------------
+----------
 - [**SENTIMENT ANALYSIS.pdf**](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/SENTIMENT%20ANALYSIS.pdf): presentation about the project findings
 - [**Technical notebook final.ipynb**](https://github.com/apy444/nlp_sentiment_business_articles/blob/master/Technical%20notebook%20final.ipynb): training predictive models, model selection
 - **data**:
